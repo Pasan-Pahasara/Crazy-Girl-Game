@@ -68,9 +68,9 @@ function barrierAnimation() {
  * */
 
 $("#btnNext2").on('click', function (e) {
-    window.location.href = "pages/index3.html";
+    window.location.href = "level_03.html";
 });
 
 $("#btnRestart").on('click', function (e) {
-    window.location.href = "pages/index3.html";
+    window.location.href = "level_03.html";
 });

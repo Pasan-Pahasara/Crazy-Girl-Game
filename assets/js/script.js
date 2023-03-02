@@ -11,26 +11,26 @@ $(document).ready(function () {
 });
 
 let backgroundMusic = new Audio();
-backgroundMusic.src = "assets/audio/happy-sun.mp3";
+backgroundMusic.src = "../assets/audio/happy-sun.mp3";
 backgroundMusic.play().then(r => {
     backgroundMusic.loop = true;
 });
 
 
 let jumpTrack = new Audio();
-jumpTrack.src = "assets/audio/cartoon-jump-6462.mp3";
+jumpTrack.src = "../assets/audio/cartoon-jump-6462.mp3";
 
 let deadTrack = new Audio();
-deadTrack.src = "assets/audio/welcome-to-hell-103646.mp3";
+deadTrack.src = "../assets/audio/welcome-to-hell-103646.mp3";
 
 let flyTrack = new Audio();
-flyTrack.src = "assets/audio/swing-whoosh-110410.mp3";
+flyTrack.src = "../assets/audio/swing-whoosh-110410.mp3";
 
 let winnerTrack = new Audio();
-winnerTrack.src = "assets/audio/winner.mp3";
+winnerTrack.src = "../assets/audio/winner.mp3";
 
 let gameOverTrack = new Audio();
-gameOverTrack.src = "assets/audio/GameOver.wav";
+gameOverTrack.src = "../assets/audio/GameOver.wav";
 
 /***
  * Start Idle Animation
@@ -43,7 +43,7 @@ function idleAnimation() {
     if (idleImageNumber === 10) {
         idleImageNumber = 1;
     }
-    $("#girl").attr("src", "assets/images/png/Idle__00" + idleImageNumber + ".png");
+    $("#girl").attr("src", "../assets/images/png/Idle__00" + idleImageNumber + ".png");
 }
 
 function idleAnimationStart() {
@@ -68,7 +68,7 @@ function runAnimation() {
     if (runImageNumber === 10) {
         runImageNumber = 1;
     }
-    $("#girl").attr("src", "assets/images/png/Run__00" + runImageNumber + ".png");
+    $("#girl").attr("src", "../assets/images/png/Run__00" + runImageNumber + ".png");
 }
 
 function runAnimationStart() {
@@ -130,7 +130,7 @@ function jumpAnimation() {
         runImageNumber = 0;
         runAnimationStart();
     }
-    $("#girl").attr("src", "assets/images/png/Jump__00" + jumpImageNumber + ".png");
+    $("#girl").attr("src", "../assets/images/png/Jump__00" + jumpImageNumber + ".png");
 }
 
 function jumpAnimationStart() {
@@ -157,7 +157,7 @@ function flyAnimation() {
     if (flyImageNumber === 10) {
         flyImageNumber = 1;
     }
-    $("#girl").attr("src", "assets/images/png/Glide_00" + flyImageNumber + ".png")
+    $("#girl").attr("src", "../assets/images/png/Glide_00" + flyImageNumber + ".png")
 }
 
 function flyAnimationStart() {
@@ -185,7 +185,7 @@ function girlDeadAnimation() {
     }
     setInterval(idleAnimationNumber);
     idleAnimationNumber = 0;
-    $("#girl").attr("src", "assets/images/png/Dead__00" + deadImageNumber + ".png")
+    $("#girl").attr("src", "../assets/images/png/Dead__00" + deadImageNumber + ".png")
 }
 
 /***
