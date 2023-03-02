@@ -1,0 +1,333 @@
+/**
+ * @author : Pasan Pahasara
+ * @since : 0.1.0
+ **/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko&family=Ubuntu&display=swap');
+
+.container {
+    margin: 0;
+}
+
+.background1 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./.././images/background.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.background2 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./.././images/background2.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.background3 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./.././images/background3.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.background4 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./.././images/background4.jpg");
+    background-size: cover;
+    background-repeat: repeat-x;
+    overflow-x: hidden;
+    position: absolute;
+}
+
+.fighterGirl {
+    height: 230px;
+    margin-top: 232px;
+    position: absolute;
+}
+
+.scoreContainer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.scoreWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: fit-content;
+    position: relative;
+    background: #ECF0F3;
+    opacity: 50%;
+    border-radius: 51px;
+    margin: 20px 20px 0 0;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 19px 38px, rgba(0, 0, 0, 0.22) 0 15px 12px;
+}
+
+.score {
+    display: flex;
+    font-size: 70px;
+    padding-left: 25px;
+    font-family: 'Teko', sans-serif;
+    font-weight: bolder;
+    margin-bottom: -32px;
+}
+
+#heartSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 235px;
+}
+
+#heartSection > img {
+    width: 80px;
+    height: 80px;
+}
+
+.barrier {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 377px;
+    background-image: url("./.././images/plants-vs-zombies.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#controlsWrapper {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+#controlsWrapper > button {
+    width: 55px;
+    height: 55px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#controlsWrapper > button:hover {
+    width: 60px;
+    height: 60px;
+}
+
+#controlsWrapper > button#btnSound {
+    background-image: url("../../assets/images/sound.png");
+    background-size: cover;
+    background-position: center;
+}
+
+div#controlsWrapper > button#btnPause {
+    background-image: url("../../assets/images/pause.png");
+    background-size: cover;
+    background-position: center;
+}
+
+div#controlsWrapper > button#btnResume {
+    background-image: url("../../assets/images/resume.png");
+    background-size: cover;
+    background-position: center;
+}
+
+div#controlsWrapper > button#btnRestart {
+    background-image: url("../../assets/images/restart.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#controlsWrapper > #move {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: -10px;
+    right: 3px;
+}
+
+#controlsWrapper > #move:hover {
+    cursor: grabbing;
+}
+
+#controlsWrapper > #move:active {
+    cursor: grab;
+}
+
+div#controlsWrapper #move > i {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    color: black;
+}
+
+div#controlsWrapper > button#btnPause.pause {
+    width: 60px;
+    height: 60px;
+}
+
+div#controlsWrapper > button#btnSound.sound-on {
+    width: 60px;
+    height: 60px;
+}
+
+.bgBlur {
+    filter: blur(8px);
+    -webkit-filter: blur(2px);
+}
+
+section#pause-bg {
+    display: none;
+    width: 12%;
+    height: 49%;
+    background-image: url('../../assets/images/png/Idle__002.png');
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#gameOverWrapper {
+    display: none;
+    width: 30%;
+    height: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    animation: spin 4s linear;
+}
+
+#gameOver_title-img {
+    height: 85%;
+    background-image: url('../../assets/images/gameOver.png');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 5px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(180deg);
+    }
+
+    50% {
+        transform: rotate(360deg);
+    }
+
+    75% {
+        transform: rotate(-180deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#gameWin_title-img {
+    display: none;
+    width: 23%;
+    height: 59%;
+    background-image: url('../../assets/images/winning.png');
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    animation: x 4s linear;
+}
+
+@keyframes x {
+    0% {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 0.5;
+    }
+
+    50% {
+        opacity: 0.75;
+    }
+
+    75% {
+        opacity: 1;
+    }
+}
+
+.btnNext {
+    display: none;
+    width: 71px;
+    height: 71px;
+    background-image: url('../../assets/images/next.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 62%;
+    left: 69%;
+}
+
+.btnNext:hover {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+.barrier2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 377px;
+    background-image: url("./.././images/372102230_BITCOIN_400px.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.barrier3 {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    margin-top: 220px;
+    background-image: url("./.././images/barrier3.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.barrier4 {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin-top: 230px;
+    background-image: url("./.././images/barrier4.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    transform: rotate(270deg);
+}

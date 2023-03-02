@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f6dc664-3fa3-47ed-bd94-8e4f6c0caf53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Crazy-Girl-Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/Countdown - Sound Effect.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/GameOver.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/cartoon-jump-6462.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/happy-sun.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/melodyloops-happy-sun.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/swing-whoosh-110410.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/welcome-to-hell-103646.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/winner.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/372102230_BITCOIN_400px.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/background2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/background3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/background4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/barrier3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/barrier4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bbBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gameOver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/plants-vs-zombies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Attack__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Climb_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Dead__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Glide_009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Idle__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Attack__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump_Throw__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Jump__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Kunai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Run__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Slide__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/png/Throw__009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/rotating-red-heart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/startButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/winning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/homeScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/level_01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/level_02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/level_03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/level_04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/level1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MSmDFQDFyBi32JTtRIV8XSKwgQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f6dc664-3fa3-47ed-bd94-8e4f6c0caf53" name="Changes" comment="" />
+      <created>1677769240401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677769240401</updated>
+      <workItem from="1677769242473" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
