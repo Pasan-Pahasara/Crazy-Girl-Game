@@ -28,7 +28,7 @@ $("#sound-icon").on('click', function (e) {
 });
 
 $("#btnPlay").on('click', function (e) {
-    window.location.href = "pages/index1.html";
+    window.location.href = "pages/level_01.html";
 });
 
 $(function () {
